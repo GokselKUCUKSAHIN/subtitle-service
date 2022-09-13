@@ -24,5 +24,12 @@
   "bugs": {
     "url": "https://github.com/jellybeanci/PROJECT_NAME/issues"
   },
-  "homepage": "https://github.com/jellybeanci/PROJECT_NAME#readme"
+  "homepage": "https://github.com/jellybeanci/PROJECT_NAME#readme",
+  "dependencies": {
+    "undef-check": "^0.0.4",
+    "youtube-captions-scraper": "^2.0.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
 }
