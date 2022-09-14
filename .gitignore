@@ -111,3 +111,5 @@ test/
 data/
 
 package-lock.json
+/get-youtube-id.d.ts
+/get-youtube-id.js

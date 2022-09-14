@@ -1,7 +1,7 @@
 {
-  "name": "@jellybeanci/PROJECT_NAME",
+  "name": "@jellybeanci/subtitle-fetch",
   "version": "0.0.1",
-  "description": "Sample Project Description",
+  "description": "YouTube Subtitle Fetcher",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
