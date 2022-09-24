@@ -1,4 +1,4 @@
-export function getYoutubeIdfunction(url: string, opts?: { fuzzy: boolean }): string | null {
+export function getYoutubeID(url: string, opts?: { fuzzy: boolean }): string | null {
     if (opts === undefined) {
         opts = {fuzzy: true};
     }
